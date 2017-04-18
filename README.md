@@ -1,12 +1,11 @@
 <h1>Alura</h1>
 
-<b>TESTES: TDD COM JAVA</b>
-<b>MOCK: TESTES DE COMPORTAMENTOS AUTOMATIZADOS EM JAVA</b>
-<b>REST ASSURED: TESTES AUTOMATIZADO DE WEBSERVICE</b>
+<b>TESTES: TDD COM JAVA</b><br>
+<b>MOCK: TESTES DE COMPORTAMENTOS AUTOMATIZADOS EM JAVA</b><br>
+<b>REST ASSURED: TESTES AUTOMATIZADO DE WEBSERVICE</b><br>
 
-<ṕ>São cursos focados em Test com JUnit e outras ferramentas de test como o Rest Assured.
-conteudo de tests automatizados e as melhores tecnicas para escrever um bom codigo de teste.</p>
-
+São cursos focados em Test com JUnit e outras ferramentas de test como o Rest Assured.
+conteudo de tests automatizados e as melhores tecnicas para escrever um bom codigo de teste.
 
 
 Certificado - MOCK: TESTES DE COMPORTAMENTOS AUTOMATIZADOS EM JAVA
